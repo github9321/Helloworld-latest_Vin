@@ -3,15 +3,15 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> Welcome  to Microdegree   </title>
+<title> Welcome  to Microdegree </title>
 <style>
   body {
-    background-color: yellow;
+    background-color: green;
   }
 </style>
 </head>
 <body>
-<h1>Welcome  to devops </h1>
+<h1> Welcome  to Microdegree </h1>
 <p>Welcome  to devops.</p>
 </body>
 </html>
