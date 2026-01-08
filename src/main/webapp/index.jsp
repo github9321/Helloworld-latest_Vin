@@ -6,7 +6,7 @@
 <title> Welcome  to Microdegree </title>
 <style>
   body {
-    background-color: green;
+    background-color: pink;
   }
 </style>
 </head>
